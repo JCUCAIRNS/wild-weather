@@ -1,4 +1,4 @@
-Tasks						Person	Complete (Y/N)
+Tasks					Person	Complete (Y/N)
 Github Creation			Adam		Y
 Justification 				        	N
 Project goals				        	N
