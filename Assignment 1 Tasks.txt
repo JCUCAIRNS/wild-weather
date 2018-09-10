@@ -1,10 +1,10 @@
 Tasks					Person	Complete (Y/N)
-Github Creation			Adam		Y
-Justification 				        	N
-Project goals				        	N
-User Stories             Errol  	N
-Project Timeline			        	N
-Architectural design					N
-Database designs		    			N
-Interface design		    			N
-Project development 					N
+Github Creation    Adam    Y
+Justification    Michael    Y
+Project goals    Michael    Y
+User Stories    Errol    Y
+Project Timeline    Errol    Y
+Architectural design    Michael    Y
+Database designs    Adam    Y
+Interface design    Adam    Y
+Project development    Michael    Y
